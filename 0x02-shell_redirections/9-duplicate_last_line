@@ -1,2 +1,2 @@
 #!/bin/bash
-tail 1 >> filename
+echo -en "" | tail --lines=1 iacta >> iacta
